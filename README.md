@@ -1,4 +1,5 @@
 
+![App Demo](./Edstruments_assessment.gif)
 ```markdown
 # 🧾 Invoice Form App
 
@@ -9,7 +10,7 @@ A simple invoice form app built with **React**, **Formik**, **Yup**, and **React
 Check out the live app here:  
 👉 [Invoice Form App on Vercel](https://edstruments-assessment-2z2edk8ht-yajasvi-khannas-projects.vercel.app)
 
-![App Demo](./Edstruments_assessment.gif)
+
 ---
 
 ## 📁 Project Structure
